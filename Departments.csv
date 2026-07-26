@@ -1,0 +1,11 @@
+Department_ID,Department_Name,Total_Beds,ICU_Beds
+D001,Cardiology,120,20
+D002,Neurology,100,15
+D003,Orthopedics,90,10
+D004,Pediatrics,80,12
+D005,Oncology,70,18
+D006,General Medicine,150,25
+D007,Emergency,60,20
+D008,Pulmonology,75,12
+D009,Nephrology,65,10
+D010,Gastroenterology,85,12

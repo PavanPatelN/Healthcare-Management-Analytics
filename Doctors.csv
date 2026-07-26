@@ -1,0 +1,101 @@
+Doctor_ID,Doctor_Name,Gender,Department_ID,Department_Name,Specialization,Experience_Years,Qualification,Consultation_Fee,Email,Phone
+DR001,Dr1,Male,D001,Cardiology,Cardiologist,2,MBBS DM,1063,dr001@medicare.com,9362950628
+DR002,Dr2,Male,D002,Neurology,Neurologist,6,MBBS DM,709,dr002@medicare.com,9826600539
+DR003,Dr3,Male,D003,Orthopedics,Orthopedic Surgeon,20,MBBS MS,565,dr003@medicare.com,9131994523
+DR004,Dr4,Male,D004,Pediatrics,Pediatrician,8,MBBS MD,1534,dr004@medicare.com,9746412689
+DR005,Dr5,Male,D005,Oncology,Oncologist,19,MBBS MD,1966,dr005@medicare.com,9797808098
+DR006,Dr6,Female,D006,General Medicine,Physician,9,MBBS MS,1706,dr006@medicare.com,9398704996
+DR007,Dr7,Male,D007,Emergency,Emergency Specialist,7,MBBS DM,1365,dr007@medicare.com,9465341213
+DR008,Dr8,Female,D008,Pulmonology,Pulmonologist,6,MBBS MD,1189,dr008@medicare.com,9209747451
+DR009,Dr9,Male,D009,Nephrology,Nephrologist,14,MBBS MD,1235,dr009@medicare.com,9469319644
+DR010,Dr10,Female,D010,Gastroenterology,Gastroenterologist,3,MBBS DM,1440,dr010@medicare.com,9675770529
+DR011,Dr11,Male,D001,Cardiology,Cardiologist,14,MBBS MD,1630,dr011@medicare.com,9414797776
+DR012,Dr12,Female,D002,Neurology,Neurologist,20,MBBS MD,1942,dr012@medicare.com,9174684276
+DR013,Dr13,Male,D003,Orthopedics,Orthopedic Surgeon,23,MBBS MD,1092,dr013@medicare.com,9185675980
+DR014,Dr14,Male,D004,Pediatrics,Pediatrician,5,MBBS MS,1069,dr014@medicare.com,9586845604
+DR015,Dr15,Female,D005,Oncology,Oncologist,7,MBBS MS,1227,dr015@medicare.com,9324956459
+DR016,Dr16,Female,D006,General Medicine,Physician,24,MBBS DM,1827,dr016@medicare.com,9176667861
+DR017,Dr17,Male,D007,Emergency,Emergency Specialist,19,MBBS DM,1001,dr017@medicare.com,9275452091
+DR018,Dr18,Female,D008,Pulmonology,Pulmonologist,14,MBBS MS,1810,dr018@medicare.com,9838908273
+DR019,Dr19,Male,D009,Nephrology,Nephrologist,23,MBBS MS,614,dr019@medicare.com,9345938494
+DR020,Dr20,Male,D010,Gastroenterology,Gastroenterologist,12,MBBS MS,1048,dr020@medicare.com,9171069472
+DR021,Dr21,Male,D001,Cardiology,Cardiologist,20,MBBS DM,1144,dr021@medicare.com,9328306011
+DR022,Dr22,Female,D002,Neurology,Neurologist,14,MBBS DM,1439,dr022@medicare.com,9253407200
+DR023,Dr23,Female,D003,Orthopedics,Orthopedic Surgeon,6,MBBS MD,1649,dr023@medicare.com,9678722458
+DR024,Dr24,Female,D004,Pediatrics,Pediatrician,25,MBBS DM,1377,dr024@medicare.com,9726563708
+DR025,Dr25,Female,D005,Oncology,Oncologist,13,MBBS MD,783,dr025@medicare.com,9647099690
+DR026,Dr26,Female,D006,General Medicine,Physician,4,MBBS MD,724,dr026@medicare.com,9264112119
+DR027,Dr27,Male,D007,Emergency,Emergency Specialist,23,MBBS MS,1721,dr027@medicare.com,9168212356
+DR028,Dr28,Female,D008,Pulmonology,Pulmonologist,14,MBBS DM,1458,dr028@medicare.com,9668132202
+DR029,Dr29,Female,D009,Nephrology,Nephrologist,19,MBBS MD,1893,dr029@medicare.com,9873869166
+DR030,Dr30,Male,D010,Gastroenterology,Gastroenterologist,23,MBBS DM,1046,dr030@medicare.com,9925276600
+DR031,Dr31,Female,D001,Cardiology,Cardiologist,5,MBBS MS,1390,dr031@medicare.com,9269820594
+DR032,Dr32,Female,D002,Neurology,Neurologist,2,MBBS DM,1973,dr032@medicare.com,9382811832
+DR033,Dr33,Male,D003,Orthopedics,Orthopedic Surgeon,18,MBBS MD,1780,dr033@medicare.com,9420452650
+DR034,Dr34,Male,D004,Pediatrics,Pediatrician,6,MBBS MS,830,dr034@medicare.com,9679153816
+DR035,Dr35,Male,D005,Oncology,Oncologist,21,MBBS MS,1500,dr035@medicare.com,9120912992
+DR036,Dr36,Male,D006,General Medicine,Physician,13,MBBS MS,990,dr036@medicare.com,9162196678
+DR037,Dr37,Male,D007,Emergency,Emergency Specialist,20,MBBS MD,675,dr037@medicare.com,9885879795
+DR038,Dr38,Female,D008,Pulmonology,Pulmonologist,4,MBBS DM,757,dr038@medicare.com,9237859287
+DR039,Dr39,Female,D009,Nephrology,Nephrologist,19,MBBS MD,1042,dr039@medicare.com,9666585408
+DR040,Dr40,Female,D010,Gastroenterology,Gastroenterologist,8,MBBS DM,1994,dr040@medicare.com,9840739735
+DR041,Dr41,Male,D001,Cardiology,Cardiologist,24,MBBS MS,1317,dr041@medicare.com,9821218382
+DR042,Dr42,Female,D002,Neurology,Neurologist,16,MBBS DM,1424,dr042@medicare.com,9229927269
+DR043,Dr43,Male,D003,Orthopedics,Orthopedic Surgeon,9,MBBS MD,1192,dr043@medicare.com,9122585366
+DR044,Dr44,Male,D004,Pediatrics,Pediatrician,20,MBBS MD,514,dr044@medicare.com,9176228245
+DR045,Dr45,Male,D005,Oncology,Oncologist,9,MBBS MD,564,dr045@medicare.com,9454794895
+DR046,Dr46,Male,D006,General Medicine,Physician,18,MBBS MD,1070,dr046@medicare.com,9818309417
+DR047,Dr47,Female,D007,Emergency,Emergency Specialist,8,MBBS DM,770,dr047@medicare.com,9876693898
+DR048,Dr48,Female,D008,Pulmonology,Pulmonologist,9,MBBS MS,1333,dr048@medicare.com,9304451095
+DR049,Dr49,Male,D009,Nephrology,Nephrologist,5,MBBS DM,1382,dr049@medicare.com,9480424119
+DR050,Dr50,Female,D010,Gastroenterology,Gastroenterologist,15,MBBS MS,1993,dr050@medicare.com,9158165865
+DR051,Dr51,Male,D001,Cardiology,Cardiologist,3,MBBS MS,1991,dr051@medicare.com,9464323393
+DR052,Dr52,Male,D002,Neurology,Neurologist,9,MBBS MD,889,dr052@medicare.com,9675832441
+DR053,Dr53,Female,D003,Orthopedics,Orthopedic Surgeon,6,MBBS MS,875,dr053@medicare.com,9399085574
+DR054,Dr54,Female,D004,Pediatrics,Pediatrician,9,MBBS MD,1407,dr054@medicare.com,9967607278
+DR055,Dr55,Male,D005,Oncology,Oncologist,3,MBBS DM,1607,dr055@medicare.com,9997677788
+DR056,Dr56,Male,D006,General Medicine,Physician,4,MBBS MD,840,dr056@medicare.com,9536383774
+DR057,Dr57,Female,D007,Emergency,Emergency Specialist,17,MBBS MD,1321,dr057@medicare.com,9162959284
+DR058,Dr58,Male,D008,Pulmonology,Pulmonologist,14,MBBS MD,1299,dr058@medicare.com,9384759615
+DR059,Dr59,Female,D009,Nephrology,Nephrologist,11,MBBS MS,1926,dr059@medicare.com,9884374109
+DR060,Dr60,Female,D010,Gastroenterology,Gastroenterologist,6,MBBS MD,1107,dr060@medicare.com,9333754555
+DR061,Dr61,Male,D001,Cardiology,Cardiologist,20,MBBS DM,1610,dr061@medicare.com,9165452690
+DR062,Dr62,Female,D002,Neurology,Neurologist,3,MBBS MD,1696,dr062@medicare.com,9611947770
+DR063,Dr63,Male,D003,Orthopedics,Orthopedic Surgeon,3,MBBS DM,664,dr063@medicare.com,9299528037
+DR064,Dr64,Male,D004,Pediatrics,Pediatrician,21,MBBS MD,1882,dr064@medicare.com,9352548261
+DR065,Dr65,Female,D005,Oncology,Oncologist,5,MBBS DM,1004,dr065@medicare.com,9721609600
+DR066,Dr66,Male,D006,General Medicine,Physician,21,MBBS MD,1358,dr066@medicare.com,9805849060
+DR067,Dr67,Female,D007,Emergency,Emergency Specialist,10,MBBS MD,1871,dr067@medicare.com,9869005091
+DR068,Dr68,Female,D008,Pulmonology,Pulmonologist,9,MBBS MS,1310,dr068@medicare.com,9240529481
+DR069,Dr69,Female,D009,Nephrology,Nephrologist,16,MBBS MS,648,dr069@medicare.com,9110002396
+DR070,Dr70,Female,D010,Gastroenterology,Gastroenterologist,21,MBBS DM,704,dr070@medicare.com,9178663096
+DR071,Dr71,Male,D001,Cardiology,Cardiologist,18,MBBS MS,771,dr071@medicare.com,9474745382
+DR072,Dr72,Male,D002,Neurology,Neurologist,9,MBBS MS,1083,dr072@medicare.com,9269379374
+DR073,Dr73,Female,D003,Orthopedics,Orthopedic Surgeon,19,MBBS DM,1119,dr073@medicare.com,9756783995
+DR074,Dr74,Male,D004,Pediatrics,Pediatrician,23,MBBS DM,1113,dr074@medicare.com,9812308209
+DR075,Dr75,Male,D005,Oncology,Oncologist,6,MBBS MS,736,dr075@medicare.com,9214929002
+DR076,Dr76,Male,D006,General Medicine,Physician,10,MBBS MS,1738,dr076@medicare.com,9326161867
+DR077,Dr77,Female,D007,Emergency,Emergency Specialist,8,MBBS DM,1798,dr077@medicare.com,9383450553
+DR078,Dr78,Female,D008,Pulmonology,Pulmonologist,10,MBBS MD,689,dr078@medicare.com,9781057736
+DR079,Dr79,Female,D009,Nephrology,Nephrologist,10,MBBS MD,507,dr079@medicare.com,9458153605
+DR080,Dr80,Male,D010,Gastroenterology,Gastroenterologist,22,MBBS MS,830,dr080@medicare.com,9895890631
+DR081,Dr81,Female,D001,Cardiology,Cardiologist,19,MBBS DM,1375,dr081@medicare.com,9702269164
+DR082,Dr82,Male,D002,Neurology,Neurologist,5,MBBS MD,1915,dr082@medicare.com,9260045822
+DR083,Dr83,Male,D003,Orthopedics,Orthopedic Surgeon,13,MBBS DM,1631,dr083@medicare.com,9259014493
+DR084,Dr84,Female,D004,Pediatrics,Pediatrician,6,MBBS MD,1131,dr084@medicare.com,9491541578
+DR085,Dr85,Male,D005,Oncology,Oncologist,13,MBBS MD,1896,dr085@medicare.com,9367930513
+DR086,Dr86,Male,D006,General Medicine,Physician,13,MBBS DM,1332,dr086@medicare.com,9766430218
+DR087,Dr87,Male,D007,Emergency,Emergency Specialist,9,MBBS MD,862,dr087@medicare.com,9542697755
+DR088,Dr88,Male,D008,Pulmonology,Pulmonologist,7,MBBS DM,1180,dr088@medicare.com,9940081098
+DR089,Dr89,Female,D009,Nephrology,Nephrologist,23,MBBS DM,1008,dr089@medicare.com,9386480450
+DR090,Dr90,Male,D010,Gastroenterology,Gastroenterologist,24,MBBS MD,1283,dr090@medicare.com,9141580226
+DR091,Dr91,Female,D001,Cardiology,Cardiologist,9,MBBS MD,1442,dr091@medicare.com,9475442872
+DR092,Dr92,Female,D002,Neurology,Neurologist,9,MBBS MD,548,dr092@medicare.com,9808705238
+DR093,Dr93,Male,D003,Orthopedics,Orthopedic Surgeon,14,MBBS MS,1070,dr093@medicare.com,9174539964
+DR094,Dr94,Female,D004,Pediatrics,Pediatrician,13,MBBS DM,1543,dr094@medicare.com,9529151399
+DR095,Dr95,Female,D005,Oncology,Oncologist,2,MBBS MD,1034,dr095@medicare.com,9291735734
+DR096,Dr96,Female,D006,General Medicine,Physician,3,MBBS MD,1721,dr096@medicare.com,9566609283
+DR097,Dr97,Female,D007,Emergency,Emergency Specialist,25,MBBS MS,1393,dr097@medicare.com,9750911797
+DR098,Dr98,Male,D008,Pulmonology,Pulmonologist,14,MBBS DM,889,dr098@medicare.com,9373506211
+DR099,Dr99,Male,D009,Nephrology,Nephrologist,24,MBBS MS,503,dr099@medicare.com,9658260221
+DR100,Dr100,Male,D010,Gastroenterology,Gastroenterologist,13,MBBS MS,643,dr100@medicare.com,9813219781
